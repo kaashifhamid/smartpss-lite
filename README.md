@@ -26,7 +26,7 @@ Get-FileHash ".\General_SmartPSSLite_MultiLang_Win64-Install_IS_V1.006.0000000.1
 ```
 
 ```
-SHA-256: <PASTE-HASH-HERE>
+SHA-256: d9027cd4f3c09e036e1c2ab6f5a1480de52c0f4b109c8f9b3fba66706ef30f7d
 ```
 
 > **Note:** The installer is not code-signed by this repository. Windows SmartScreen or antivirus software may show a warning on first run.
